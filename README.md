@@ -1,9 +1,6 @@
 # Social-Media-Platform
 A raw social media platform that uses multiple data structures to store data.
 
-## Overview
-
-
 ## Methodology
 Different data structures were used for different needs.
 
