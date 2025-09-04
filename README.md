@@ -1,6 +1,9 @@
 # Social-Media-Platform
 A raw social media platform that uses multiple data structures to store data.
 
+## Overview
+A school project that gave us the task to develop the background and memory storage code. The requirements were to have a friend system, user tracking, messaging system, and a posting system and to have everything stored in appropriate data structures.  
+
 ## Methodology
 Different data structures were used for different needs.
 
